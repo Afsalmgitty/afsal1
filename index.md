@@ -1,2 +1,2 @@
 #  Lamborghini
-![profile](./lambpp.jpg)
+![profile](./lamboo.jpg)
